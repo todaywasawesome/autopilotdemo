@@ -1,0 +1,1 @@
+{"appName":"demoapp","userGivenName":"demoapp","destNamespace":"default","destServer":"https://kubernetes.default.svc","srcPath":"apps/demoapp/overlays/staging","srcRepoURL":"https://github.com/todaywasawesome/autopilotdemo.git","srcTargetRevision":""}
