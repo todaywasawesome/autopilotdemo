@@ -1,0 +1,3 @@
+# Cluster Resources
+This directory contains all cluster resources that should be applied to cluster: `https://34.83.68.77`.
+For example `Namespace` resources that are shared by multiple applications on the same namespace.
